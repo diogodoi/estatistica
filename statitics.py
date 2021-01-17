@@ -6,7 +6,9 @@ import random
 from sklearn.model_selection import train_test_split
 
 st.markdown("""
-        # Estatítisca 
+        # Estatítisca
+        Criado por **Diogo Henrique Godoi**.
+        Contato: diogo.godoi@usp.br 
          
         ## A estatística pode ser dividida em 3 áreas:   
              
